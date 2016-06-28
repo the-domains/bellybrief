@@ -2,6 +2,7 @@ name: Bellybrief
 favicon: null
 layout_spectrum: 0.1891981230583042
 typography_spectrum: 0.22298626974225044
+title: Belly Brief
 cta:
   domain: null
   bucket: null
